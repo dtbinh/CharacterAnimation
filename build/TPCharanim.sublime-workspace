@@ -1,0 +1,985 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mat",
+				"matrix_confusion"
+			],
+			[
+				"set",
+				"setw"
+			],
+			[
+				"getN",
+				"getPredictName"
+			],
+			[
+				"_",
+				"_predictName"
+			],
+			[
+				"train",
+				"trains_images"
+			],
+			[
+				"r",
+				"release"
+			],
+			[
+				"stat",
+				"static_cast"
+			],
+			[
+				"image",
+				"images_test"
+			],
+			[
+				"fre",
+				"frequenceVector"
+			],
+			[
+				"get",
+				"getFreqVector"
+			],
+			[
+				"images",
+				"images_test"
+			],
+			[
+				"tra",
+				"train_images"
+			],
+			[
+				"tests",
+				"testsFreqVector"
+			],
+			[
+				"imag",
+				"images_test"
+			],
+			[
+				"im",
+				"images_test"
+			],
+			[
+				"distan",
+				"distance_v"
+			],
+			[
+				"types",
+				"types"
+			],
+			[
+				"test",
+				"testFreqVector"
+			],
+			[
+				"compute",
+				"computeVectorFreq"
+			],
+			[
+				"freq",
+				"freqVector"
+			],
+			[
+				"dis",
+				"distanceIndex"
+			],
+			[
+				"dist",
+				"distanceRow"
+			],
+			[
+				"di",
+				"distanceRow"
+			],
+			[
+				"le",
+				"lenghtVector"
+			],
+			[
+				"dic",
+				"dictionary"
+			],
+			[
+				"desc",
+				"descriptors"
+			],
+			[
+				"siz",
+				"size"
+			],
+			[
+				"len",
+				"len2"
+			],
+			[
+				"res",
+				"res_folder"
+			],
+			[
+				"cla",
+				"classification"
+			],
+			[
+				"vector",
+				"vectorHistograms"
+			],
+			[
+				"trains",
+				"trainsHistogram"
+			],
+			[
+				"vec",
+				"vecHistograms"
+			],
+			[
+				"hi",
+				"histogramVec"
+			],
+			[
+				"histo",
+				"histogramVec"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"his",
+				"histogram"
+			],
+			[
+				"keypo",
+				"keypoints"
+			],
+			[
+				"diction",
+				"dictionarySize"
+			],
+			[
+				"des",
+				"descriptors"
+			],
+			[
+				"images_",
+				"images_train"
+			],
+			[
+				"LEA",
+				"_LEARNING_"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"Am",
+				"AMat"
+			],
+			[
+				"co",
+				"copyTo"
+			],
+			[
+				"amt",
+				"amat"
+			],
+			[
+				"type",
+				"typePredict"
+			],
+			[
+				"cs",
+				"csv_Test"
+			],
+			[
+				"csv",
+				"csv_Train"
+			],
+			[
+				"names_",
+				"names_test"
+			],
+			[
+				"types_",
+				"types_test"
+			],
+			[
+				"descri",
+				"descriptor_train"
+			],
+			[
+				"of",
+				"ofstrain"
+			],
+			[
+				"size",
+				"size_train"
+			],
+			[
+				"ofs",
+				"ofstest"
+			],
+			[
+				"names",
+				"names_test"
+			],
+			[
+				"imags",
+				"images_test"
+			],
+			[
+				"descr",
+				"descriptor_train"
+			],
+			[
+				"csv_",
+				"csv_Test"
+			],
+			[
+				"typs_",
+				"types_train"
+			],
+			[
+				"read",
+				"read_csv"
+			],
+			[
+				"descriptor",
+				"descriptor_test"
+			],
+			[
+				"class",
+				"classlabel"
+			],
+			[
+				"fin",
+				"fileName"
+			],
+			[
+				"Pa",
+				"PATH1"
+			],
+			[
+				"nam",
+				"d_name"
+			],
+			[
+				"p",
+				"pfolder"
+			],
+			[
+				"countf",
+				"countFilesInFolder"
+			],
+			[
+				"d_",
+				"d_name"
+			],
+			[
+				"count",
+				"countFilesInFolder"
+			],
+			[
+				"CM",
+				"CMD_CLASS"
+			],
+			[
+				"n",
+				"nb_block"
+			],
+			[
+				"CMD",
+				"CMD_TRAIN"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"push",
+				"push_back"
+			],
+			[
+				"de",
+				"descriptor"
+			],
+			[
+				"pu",
+				"push_back"
+			],
+			[
+				"is",
+				"isstringstream"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"img",
+				"img_2"
+			],
+			[
+				"goo",
+				"good_matches1"
+			],
+			[
+				"matches",
+				"matches1"
+			],
+			[
+				"max",
+				"maxDIST"
+			],
+			[
+				"tr",
+				"thresholdDist"
+			],
+			[
+				"match",
+				"matches"
+			],
+			[
+				"ke",
+				"keypoints1"
+			],
+			[
+				"thr",
+				"_threshold"
+			],
+			[
+				"good_match",
+				"good_matches2"
+			],
+			[
+				"inde",
+				"index2"
+			],
+			[
+				"poin",
+				"points2"
+			],
+			[
+				"id",
+				"index1"
+			],
+			[
+				"points",
+				"points1"
+			],
+			[
+				"matche",
+				"matches1"
+			],
+			[
+				"sy",
+				"symetryMatches"
+			],
+			[
+				"img_",
+				"img_1"
+			],
+			[
+				"com",
+				"compute"
+			],
+			[
+				"descrip",
+				"descriptors"
+			],
+			[
+				"sift",
+				"SiftDescriptorExtractor"
+			],
+			[
+				"good",
+				"good_matches2"
+			],
+			[
+				"min",
+				"min_dist"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"h",
+				"hpp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/realgalois/.config/sublime-text-3/Packages/User/Make(OpenGL).sublime-build",
+			"settings":
+			{
+				"buffer_size": 560,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 8687,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/realgalois/.config/sublime-text-3/Packages/User/Make(Stage).sublime-build",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Make(OpenGL).sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++ NewSingle File.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ NewSingle File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++ NewSingle File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++ NewSingle File.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ NewSingle File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ NewSingle File.sublime-build",
+					"Run_args"
+				]
+			],
+			[
+				"Packages/User/C++ NewSingle File.sublime-build",
+				"Run_args"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Make (Linux).sublime-build",
+					""
+				],
+				[
+					"Packages/User/Make (Linux).sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/Make (Linux).sublime-build",
+					"Test"
+				]
+			],
+			[
+				"Packages/User/Make (Linux).sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Make(OpenGL).sublime-build",
+					""
+				],
+				[
+					"Packages/User/Make(OpenGL).sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/Make(OpenGL).sublime-build",
+					"Test"
+				]
+			],
+			[
+				"Packages/User/Make(OpenGL).sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build With: C++ Single File"
+			]
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"./test"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/realgalois/STAGE_LIRIS/TPAlexandre/CharAnim_m2pro/build"
+	],
+	"file_history":
+	[
+		"/home/realgalois/STAGE_LIRIS/TPAlexandre/CharAnim_m2pro/build/CMakeFiles/CharA.dir/link.txt",
+		"/home/realgalois/STAGE_LIRIS/TPAlexandre/CharAnim_m2pro/build/Makefile",
+		"/home/realgalois/.cache/.fr-RJO4rU/bvhviewer_v0.01_src/Makefile",
+		"/home/realgalois/STAGE_LIRIS/TPAlexandre/GitCode/ozz-animation/README",
+		"/home/realgalois/.cache/.fr-nK0m2y/bvhviewer_v0.01_src/main.c",
+		"/home/realgalois/STAGE_LIRIS/TPAlexandre/GitCode/ozz-animation/LICENSE",
+		"/home/realgalois/STAGE_LIRIS/TPAlexandre/GitCode/ozz-animation/CHANGES",
+		"/home/realgalois/Downloads/Subversion/rva-opengl-qt-read-only/RVA/main.cpp",
+		"/home/realgalois/STAGE_LIRIS/TPAlexandre/CharAnim_m2pro/src/CACore/CASkeleton.h",
+		"/home/realgalois/Downloads/Subversion/rva-opengl-qt-read-only/RVA/World.cpp",
+		"/home/realgalois/STAGE_LIRIS/TPAlexandre/GlutTestCode/Makefile",
+		"/home/realgalois/.config/sublime-text-3/Packages/User/Make(OpenGL).sublime-build",
+		"/home/realgalois/.config/sublime-text-3/Packages/User/Make (Linux).sublime-build",
+		"/home/realgalois/.cache/.fr-fCEjb5/prog.c",
+		"/home/realgalois/.cache/.fr-4kKfDX/makefile",
+		"/home/realgalois/TPs/ComputerVision/TP2/IO.cpp",
+		"/home/realgalois/STAGE_LIRIS/TPAlexandre/GlutTestCode/test.c",
+		"/home/realgalois/STAGE_LIRIS/PaperAlexandreMeyer/MotionDetection",
+		"/home/realgalois/STAGE_LIRIS/PaperAlexandreMeyer/ListesArticles",
+		"/home/realgalois/Documents/Telephone",
+		"/home/realgalois/TPs/ComputerVision/TP3_dtbinh/Makefile",
+		"/home/realgalois/.config/sublime-text-3/Packages/User/C++ NewSingle File.sublime-build",
+		"/home/realgalois/STAGE_LIRIS/TPAlexandre/GlutTestCode/makefile",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/Code_Fabrice/dico.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2/Learning.h",
+		"/home/realgalois/TPs/ComputerVision/TP2/Learning.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2/res_folder/result.OUT",
+		"/home/realgalois/TPs/ComputerVision/TP2/test1.ext",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/Create_CSV/create_csv.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2/fMatrix",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/CODE_SOURCE/CODE_SOURCE/Create_CSV/make_csv.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2/AMat.h",
+		"/home/realgalois/TPs/ComputerVision/TP2/AMat.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2/train3.txt",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/CODE_SOURCE/CODE_SOURCE/main.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/Code_Fabrice/matching.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/Code_Fabrice/reconnaissance.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2/res_folder1/result.OUT",
+		"/home/realgalois/TPs/ComputerVision/TP2/train1.ext",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/CODE_SOURCE/CODE_SOURCE/Data/LinkDatabase",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/CODE_SOURCE/CODE_SOURCE/train1.ext",
+		"/home/realgalois/TPs/ComputerVision/TP2/train1.csv",
+		"/home/realgalois/TPs/ComputerVision/TP2/TrainningVectors.txt",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/CODE_SOURCE/CODE_SOURCE/test1.ext",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/CODE_SOURCE/CODE_SOURCE/control.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/CODE_SOURCE/CODE_SOURCE/Create_CSV/create_csv.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/Create_CSV/make1_csv.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/Create_CSV/make_csv.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/Create_CSV/newCreate.cpp",
+		"/home/realgalois/Documents/These/These",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/Create_CSV/image.orig.create_csv.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2/Data/train.txt",
+		"/home/realgalois/Downloads/newtest.ext",
+		"/home/realgalois/TPs/ComputerVision/TP2/TestingVector.txt",
+		"/home/realgalois/TPs/ComputerVision/TP2/dictionary.txt",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/CODE_SOURCE/CODE_SOURCE/Create_CSV/create_csv2.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2/matrix_confusion",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/KNN_methode/control.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2/train.txt",
+		"/home/realgalois/TPs/ComputerVision/TP2/def.h",
+		"/home/realgalois/TPs/ComputerVision/TP2/name.txt",
+		"/home/realgalois/TPs/ComputerVision/TP2/match.txt",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/train.txt",
+		"/home/realgalois/TPs/ComputerVision/TP2/Data/test.txt",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/image.orig/create_csv.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/test.txt",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/KNN_methode/OUTPUT/result1.OUT",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/KNN_methode/descriptorTrain",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/Code_Fabrice/tagny-tp2/header/tp2.h",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/Code_Fabrice/tagny-tp2/classification/romvDetection.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/Code_Fabrice/tagny-tp2/apprentissage/romvApprentissage.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/Features.cpp~",
+		"/home/realgalois/TPs/ComputerVision/TP2/IO.h",
+		"/home/realgalois/TPs/ComputerVision/TP2/control.h",
+		"/home/realgalois/Downloads/Computer Vision/TP2_computerVision/Logo_recognition-master/invertedIndex/main.cpp",
+		"/home/realgalois/Downloads/Computer Vision/TP2_computerVision/Logo_recognition-master/invertedIndex/ExtractSIFT.cpp",
+		"/home/realgalois/.cache/.fr-GVIQyO/BagOfWords-master/src/compute_sift.cpp",
+		"/home/realgalois/.cache/.fr-mq2Vqs/BagOfWords-master/src/clustering.cpp",
+		"/home/realgalois/.cache/.fr-Ao0uZb/BagOfWords-master/src/histogram.cpp",
+		"/home/realgalois/.cache/.fr-ym4kMO/FoodcamClassifier-master/train_bovw.cpp",
+		"/home/realgalois/.cache/.fr-sfeJBw/jigsawpuzzlesolver-master/FeatureDetectorAndMatcher.cpp",
+		"/home/realgalois/Downloads/Computer Vision/TP2_computerVision/Logo_recognition-master/invertedIndex/ImgSet.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/Code_Fabrice/tagny-tp2/construitDictionnaire/construitDictionnaire.cpp",
+		"/home/realgalois/.cache/.fr-gfYv75/Object-Recognition-master/main.cpp",
+		"/home/realgalois/.cache/.fr-w05VAh/Object-Recognition-master/bowfeatures.cpp",
+		"/home/realgalois/.cache/.fr-mmkx5Z/Object-Recognition-master/classification.cpp",
+		"/home/realgalois/Downloads/Computer Vision/TP2_computerVision/CurrencyRecognition-master/currency_train/train_BOW_IR_utils.cpp",
+		"/home/realgalois/Downloads/Computer Vision/TP2_computerVision/CurrencyRecognition-master/currency_train/currency.cpp",
+		"/home/realgalois/Downloads/Computer Vision/TP2_computerVision/Logo_recognition-master/invertedIndex/SIFTDescriptor.cpp",
+		"/home/realgalois/.cache/.fr-YCgHmx/FoodcamClassifier-master/predict_common.cpp",
+		"/home/realgalois/.cache/.fr-0YDfhW/FoodcamClassifier-master/build_vocabolary.cpp",
+		"/home/realgalois/.cache/.fr-kkbXDi/ajoshi005-leafdex-7fe2185a4664/FeatureExtractionCodes/sift3.cpp",
+		"/home/realgalois/.cache/.fr-AlPjHE/BagOfWords-master/src/main.cpp",
+		"/home/realgalois/Downloads/Computer Vision/Bag of visual words/OpenCV BoFSIFT/BoFSIFT/BoFSIFT.cpp",
+		"/home/realgalois/Downloads/Computer Vision/Bag of visual words/feature extraction/feature extraction/stdafx.cpp",
+		"/home/realgalois/Downloads/Computer Vision/Bag of visual words/feature extraction/feature extraction/ReadMe.txt",
+		"/home/realgalois/Downloads/Computer Vision/Bag of visual words/feature extraction/feature extraction/feature extraction.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2/control.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/Source/trained_data/histograms100.yml",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/Source/trained_data/labels.yml",
+		"/home/realgalois/TPs/ComputerVision/TP2/main.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/Code_Fabrice/dico",
+		"/home/realgalois/TPs/ComputerVision/TP2/channel.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2/channel.h",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/KNN_methode/control.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/KNN_methode/main.cpp",
+		"/home/realgalois/TPs/TP2",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/KNN_methode/desTrain1",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/KNN_methode/OUTPUT/result.OUT",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/KNN_methode/descriptorTest",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/KNN_methode/csvTrain1.ext",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/KNN_methode/csvTest1.ext",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/KNN_methode/desTrain",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/BOW_KNN_Methodes/channel.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/BOW_KNN_Methodes/readFile.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/BOW_KNN_Methodes/readFile",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/Code_Fabrice/extraction.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/BOW_KNN_Methodes/listFile.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/KNN_methode/control.h",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/KNN_methode/IO.h",
+		"/home/realgalois/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/BOW_KNN_Methodes/main.cpp",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/BOW_KNN_Methodes/main",
+		"/home/realgalois/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/BOW_KNN_Methodes/IO.h",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/BOW_KNN_Methodes/creFolder/createFile",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/BOW_KNN_Methodes/Tp2.sublime-project",
+		"/home/realgalois/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/BOW_KNN_Methodes/Tp2.sublime-project~"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"draw",
+			"fs",
+			"classification",
+			"computeVectorFreq",
+			"vectorHistograms",
+			"frequence",
+			"computeVectorFreq",
+			"trainsFreqVector",
+			"nom",
+			"images_test",
+			"f",
+			"frequence",
+			"lenghtVector",
+			"norm",
+			"computeHistogram",
+			"buildInvertedIndex",
+			"cosSimlarity",
+			"trainsHistogram",
+			"testsHistogram",
+			"funcCompare",
+			"vectorHistograms",
+			"computeHistogram",
+			"vector<float>",
+			"testsHistogram",
+			"vector<double>",
+			"computeHistogram",
+			"nb_true",
+			"trains_images",
+			"funcCompare",
+			"detector",
+			"Totaldescriptors",
+			"read_csv",
+			"Channel",
+			"imread",
+			"InputArray",
+			"descriptor_train",
+			"IO",
+			"max",
+			"img_1",
+			"imageOutput",
+			"trainLabels",
+			"TrainLabels",
+			"mTrainLabels",
+			"descriptorsDiff",
+			"descriptors	Diff",
+			"descriptorsDiff"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"vector<double>",
+			"vector<float>",
+			"AMat"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/realgalois/.config/sublime-text-3/Packages/User/Make(OpenGL).sublime-build",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/realgalois/.config/sublime-text-3/Packages/User/Make(Stage).sublime-build",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 148.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Make(OpenGL).sublime-build",
+	"project": "TPCharanim.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/TPs/ComputerVision/TP2_dtbinh/CODE_SOURCE/BOW_KNN_Methodes/Tp2Project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
