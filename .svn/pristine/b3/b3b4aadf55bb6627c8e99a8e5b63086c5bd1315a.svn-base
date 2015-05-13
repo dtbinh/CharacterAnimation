@@ -1,0 +1,53 @@
+HIERARCHY
+ROOT Spine
+{
+	OFFSET	0.00		60.00		0.00
+	CHANNELS 0
+
+	JOINT Pelvis
+	{
+		OFFSET	0.00		-10.00		0.00
+		CHANNELS 1 Xposition
+
+		JOINT AncheG
+		{
+			OFFSET	 -10.00	 -10.00	 0.00
+			CHANNELS 1 Zrotation
+
+			JOINT PiedG
+			{
+				OFFSET	 0.00	 -40	 0.00
+				CHANNELS 1 Zrotation
+				End Site 
+				{
+					OFFSET	 -5.00	 0.00	 10.00
+					}
+				}
+		}
+
+		JOINT AncheD
+		{
+			OFFSET	 10.00	 -10.00	 0.00
+			CHANNELS 1 Zrotation
+
+			JOINT PiedD
+			{
+				OFFSET	 0.00	 -40	 0.00
+				CHANNELS 1 Zrotation
+				End Site 
+				{
+					OFFSET	 5.00	 0.00	 10.00
+					}
+				}
+		}
+	}
+}
+MOTION
+Frames:    6
+Frame Time: 0.33333
+0 0 0 0 0
+0 -5 0 5 0
+0 -15 0 15 0
+0 -25 0 15 0
+0 -35 0 15 0
+0 -45 0 15 0

@@ -1,0 +1,39 @@
+HIERARCHY
+ROOT Bras
+{
+	OFFSET	20.00		20.00		0.00
+	CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+	JOINT AvantBras
+	{
+		OFFSET	 80.00	 0	 0.00
+		CHANNELS 3 Zrotation Xrotation Yrotation
+		
+		JOINT PinceHaut
+		{
+			OFFSET	 50.00	 0	 0.00
+			CHANNELS 3 Zrotation Xrotation Yrotation
+			End Site 
+			{
+				OFFSET	 20.00	 4	 0.00
+			}
+		}
+
+		JOINT PinceBas
+		{
+			OFFSET	 50.00	 0	 0.00
+			CHANNELS 3 Zrotation Xrotation Yrotation
+			End Site 
+			{
+				OFFSET	 20.00	 -4	 0.00
+			}
+		}
+	}
+}
+MOTION
+Frames:    6
+Frame Time: 0.33333
+0 0 0 10 0 0      -10 0 0      10 0 0      -10 0 0
+0 0 0 20 0 0      -20 0 0      20 0 0      -20 0 0
+0 0 0 30 0 0      -30 0 0      30 0 0      -30 0 0
+0 0 0 40 0 0      -40 0 0      40 0 0      -40 0 0
+0 0 0 50 0 0      -50 0 0      50 0 0      -50 0 0
